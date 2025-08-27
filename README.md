@@ -16,4 +16,3 @@
 
 ## output
 
-<img width="2329" height="1314" alt="Image" src="https://github.com/user-attachments/assets/9ad4959b-ed6d-4d79-909f-788f921c2b9c" />
