@@ -10,7 +10,7 @@
 
 **DURATION**: 4 WEEKS
 
-**MENTOR**: NEELA SANTHOSH# 
+**MENTOR**: NEELA SANTHOSH
 
 # This project integrates Python with Power BI to create advanced data visualizations and analytics. Using Matplotlib and Seaborn
 
